@@ -1,6 +1,14 @@
 phone_brand,device_model,count
-E派,T7,2
-E派,U5482,22
+Cool ratio,H1,5
+Cool ratio,H1S,2
+Cool ratio,H2,107
+Cool ratio,H6,2
+Cool ratio,M1,19
+Cool ratio,MUSE,2
+Cool ratio,S1,14
+Cool ratio,S2,196
+Cool ratio,S3,95
+Cool ratio,S6,26
 HTC,603e,2
 HTC,802d,189
 HTC,802w,132
@@ -38,6 +46,16 @@ HTC,T528d,14
 HTC,T528t,1
 HTC,X920e,9
 HTC,渴望HD,1
+Kanga,L823,2
+Kanga,R1,3
+Kanga,V981,80
+Ktouch,L820,88
+Ktouch,L930i,250
+Ktouch,T85+,8
+Ktouch,Touch 2,409
+Ktouch,Touch 3,630
+Ktouch,Touch 3c,59
+Ktouch,Touch V,140
 LG,F320L,28
 LG,G2,643
 LG,G3,1500
@@ -104,6 +122,10 @@ OPPO,U705T,24
 OPPO,U707T,374
 OPPO,Ulike2,4
 OPPO,X907,16
+Ou Bo Xin,IVO 6600,3
+Ou Bo Xin,Q3C,9
+Qi Cool,旗舰版,618
+Qi Cool,青春版,3016
 TCL,P301M,156
 TCL,P302C,6
 TCL,P308L,136
@@ -120,8 +142,596 @@ TCL,ono,35
 TCL,么么哒,124
 TCL,么么哒3N,1414
 TCL,乐玩,281
+Yitong,P2,102
+Yitong,P3,59
+Yitong,P305,12
 ZOYE,V18,16
 ZUK,Z1,2058
+ada,V919,3
+aiyouni,U2,15
+aiyouni,U3,276
+aiyouni,i1,253
+amazon,Kindle Fire HDX 7.0,7
+asus,K012,76
+asus,ME7510KG,4
+asus,T00G,23
+asus,ZenFone 2,680
+asus,ZenFone 5,40
+asus,ZenFone Max,16
+asus,ZenFone Selfie,14
+asus,飞马,42
+banghua,U7,2
+banghua,V9,10
+bigcola,MC002,112
+bodao,Doeasy E700,5
+bodao,L108,3
+bodao,LT01,1
+bodao,LT02,27
+ccmc,A1,1492
+ccmc,M601,10
+ccmc,M811,305
+ccmc,M812C,1213
+ccmc,N1,1993
+ccmc,N1 max,43
+coolpad,5200S,25
+coolpad,5216D,12
+coolpad,5217,6
+coolpad,5219,2
+coolpad,5261,3
+coolpad,5263,2
+coolpad,5263S,1
+coolpad,5316,33
+coolpad,5360,374
+coolpad,5872,8
+coolpad,5876,12
+coolpad,5890,15
+coolpad,5891,105
+coolpad,5891Q,241
+coolpad,5892,25
+coolpad,5950,304
+coolpad,5951,18
+coolpad,5956,1
+coolpad,7251,5
+coolpad,7270,1
+coolpad,7270-W00,3
+coolpad,7275,7
+coolpad,7295,298
+coolpad,7295+,125
+coolpad,7295A青春版,12
+coolpad,7295C,26
+coolpad,7296,353
+coolpad,7296S,42
+coolpad,7298D,85
+coolpad,7320,32
+coolpad,7605,23
+coolpad,7620l,293
+coolpad,8017,13
+coolpad,8017-T00,3
+coolpad,8085,33
+coolpad,8089,3
+coolpad,8105,12
+coolpad,8185,10
+coolpad,8190Q,11
+coolpad,8195,12
+coolpad,8198T,7
+coolpad,8295,3
+coolpad,8702,27
+coolpad,8705,264
+coolpad,8707,47
+coolpad,8712,577
+coolpad,8713,21
+coolpad,8715,33
+coolpad,8717,96
+coolpad,8720,81
+coolpad,8720L,350
+coolpad,8721,658
+coolpad,8722,1
+coolpad,8729,339
+coolpad,8730L,484
+coolpad,8732,25
+coolpad,8736,7
+coolpad,8750,1
+coolpad,9190l,1992
+coolpad,9976A,89
+coolpad,9976D,33
+coolpad,F2,10761
+coolpad,K1,3
+coolpad,S6,111
+coolpad,T1,858
+coolpad,Y1,122
+coolpad,Y70-C,22
+coolpad,Y80D,700
+coolpad,ivvi K1 mini,220
+coolpad,ivvi S6,3
+coolpad,ivvi 小i,278
+coolpad,ivvi 小骨Pro,655
+coolpad,大神1s,143
+coolpad,大神F1,4134
+coolpad,大神F1Plus,1324
+coolpad,大神F2,2307
+coolpad,大神F2全高清版,1561
+coolpad,大神Note,126
+coolpad,大神Note3,5639
+coolpad,大神X7,1181
+coolpad,大观4,40
+coolpad,大观铂顿,1
+coolpad,炫影S+,46
+coolpad,锋尚,1641
+coolpad,锋尚2,6
+coolpad,锋尚Max,261
+coolpad,锋尚Pro,1332
+coolpad,锋尚mini,45
+ctyon,F8909,4
+desci,魔镜 X5,13
+dowe,D330,301
+dowe,D350,1
+dowe,L1 mini,354
+dowe,L5 mini,39
+dowe,L5Pro,1
+dowe,S2y,61
+dowe,S3,45
+dowe,T20,2
+dowe,T35,70
+dowe,T60,9
+dowe,iSuper S1,1
+dowe,iSuper S2,38
+dowe,倾城L3,24
+dowe,倾城L3C,124
+epai,T7,2
+epai,U5482,22
+fks,M210,11
+fks,M310,17
+gionee,E6,205
+gionee,E6T,38
+gionee,E7,40
+gionee,E8,48
+gionee,ELIFE E3T,39
+gionee,ELIFE E6 mini,23
+gionee,ELIFE S5.5,197
+gionee,F103,3024
+gionee,F103S,158
+gionee,F301,454
+gionee,F303,288
+gionee,GN137,33
+gionee,GN139,87
+gionee,GN151,138
+gionee,GN152,660
+gionee,GN5001S,206
+gionee,GN706L,12
+gionee,GN715,404
+gionee,GN9002,41
+gionee,M3,385
+gionee,M5,1245
+gionee,M5 Plus,921
+gionee,S5.1,38
+gionee,S5.1Pro,366
+gionee,S5.5L,2031
+gionee,S6,1959
+gionee,S7,768
+gionee,V182,17
+gionee,V183,19
+gionee,V185,2
+gionee,V188,78
+gionee,V188S,504
+gionee,X805,28
+gionee,天鉴T1,17
+gionee,天鉴W900,324
+gionee,天鉴W900S,42
+gionee,金钢,715
+google,Nexus 7,45
+greeno,N2,67
+haier,HT-I860,13
+hammer,T1,1513
+hammer,T2,102
+hammer,坚果手机,2835
+hasse,X50TS,78
+hisense,D2-M,195
+hisense,E50-T,187
+hisense,E600M,1
+hisense,E602T,3
+hisense,E620M,4
+hisense,E621T,266
+hisense,E70-T,333
+hisense,EG936D,12
+hisense,EG978,12
+hisense,G610M,92
+hisense,HS-U978,9
+hisense,I630T,5
+hisense,I635T,2
+hisense,I639T,2
+hisense,M10-M,1
+hisense,M20-M,41
+hisense,M20-T,152
+hisense,T928,2
+hisense,U939,2
+hisense,U966,2
+hisense,X68T,15
+hisense,X8T,139
+hisense,小章鱼,50
+hp,Compaq 7,1
+huawei,A199,588
+huawei,Ascend G6,540
+huawei,Ascend G7,7800
+huawei,Ascend G700,80
+huawei,Ascend G700T,722
+huawei,Ascend GX1,1022
+huawei,Ascend P1,3
+huawei,Ascend P6,1755
+huawei,Ascend P7,9285
+huawei,Ascend P8,15055
+huawei,B199,1520
+huawei,C8813,34
+huawei,C8813DQ,2
+huawei,C8813Q,64
+huawei,C8815,44
+huawei,C8816,351
+huawei,C8816D,84
+huawei,C8817E,661
+huawei,C8817L,129
+huawei,C8818,1755
+huawei,G309T,5
+huawei,G510,6
+huawei,G520-0000,69
+huawei,G520-5000,16
+huawei,G520-T10,9
+huawei,G521,74
+huawei,G525,37
+huawei,G6-C00,23
+huawei,G610C,208
+huawei,G610S,918
+huawei,G610T,1095
+huawei,G620-L75,450
+huawei,G628,490
+huawei,G629,302
+huawei,G660-L075,748
+huawei,G7 Plus,1318
+huawei,G716,84
+huawei,G730-C00,243
+huawei,G730-L075,530
+huawei,G730-T00,261
+huawei,G730-U00,663
+huawei,G750-T20,1140
+huawei,HN3-U01,89
+huawei,MT1-U06,405
+huawei,MT2-C00,952
+huawei,Mate,238
+huawei,Mate 2,1172
+huawei,Mate 7,43206
+huawei,Mate 7 青春版,1641
+huawei,Mate 8,5112
+huawei,Mate S,1673
+huawei,MediaPad 10 Link,1
+huawei,MediaPad 10 Link+?,4
+huawei,MediaPad M2-801W,100
+huawei,MediaPad M2-803L,459
+huawei,Nexus 6P,361
+huawei,P8 Lite,6070
+huawei,P8max,2131
+huawei,P9,119
+huawei,P9 Plus,134
+huawei,S8-701u,130
+huawei,S8-701w,7
+huawei,T1-821w,23
+huawei,T8620,6
+huawei,U9508,181
+huawei,X1 7.0,868
+huawei,Y220T,1
+huawei,Y300,7
+huawei,Y511-T00,171
+huawei,Y511-U00,16
+huawei,Y516,2
+huawei,Y518-T00,84
+huawei,Y535D,3
+huawei,Y560-CL00,19
+huawei,Y600-U00,81
+huawei,Y635,1059
+huawei,Y635-TL00,355
+huawei,m310,23
+huawei,畅享5,5944
+huawei,畅享5S,4679
+huawei,荣耀+,4
+huawei,荣耀3C,15646
+huawei,荣耀3C畅玩版,2505
+huawei,荣耀3X,2938
+huawei,荣耀3X畅玩版,13169
+huawei,荣耀4A,4196
+huawei,荣耀6,55008
+huawei,荣耀6 Plus,33197
+huawei,荣耀6 plus,3530
+huawei,荣耀7,14116
+huawei,荣耀7i,5086
+huawei,荣耀V8,151
+huawei,荣耀X2,2356
+huawei,荣耀平板T1-823L,436
+huawei,荣耀畅玩4,6518
+huawei,荣耀畅玩4C,19464
+huawei,荣耀畅玩4C运动版,641
+huawei,荣耀畅玩4X,46212
+huawei,荣耀畅玩5,2163
+huawei,荣耀畅玩5X,10015
+huawei,荣耀畅玩平板T1,34
+huawei,麦芒3,3925
+huawei,麦芒3S,1122
+huawei,麦芒4,6434
+ipair,IPH8,3
+ipair,iPh-800,2
+kiwu,A800,1
+koobee,TALK 7X四核,10
+koobee,U25GT,16
+koobee,U51GT-W,1
+kupo,L168,4
+kupo,L7,16
+lenovo,A2580,193
+lenovo,A2800d,214
+lenovo,A2860,5
+lenovo,A298t,1
+lenovo,A3000-H,2
+lenovo,A318t,1
+lenovo,A320t,397
+lenovo,A3300-T,16
+lenovo,A355e,135
+lenovo,A356,2
+lenovo,A3600d,13
+lenovo,A360t,83
+lenovo,A366t,2
+lenovo,A368t,50
+lenovo,A376,7
+lenovo,A378t,14
+lenovo,A3800d,374
+lenovo,A380t,122
+lenovo,A388t,12
+lenovo,A3900,84
+lenovo,A398t,16
+lenovo,A399,34
+lenovo,A516,3
+lenovo,A5800-D,89
+lenovo,A628t,17
+lenovo,A630t,1
+lenovo,A670t,34
+lenovo,A678t,15
+lenovo,A6800,96
+lenovo,A688t,1
+lenovo,A706,19
+lenovo,A708t,1096
+lenovo,A760,17
+lenovo,A766,13
+lenovo,A768t,164
+lenovo,A770e,5
+lenovo,A785e,10
+lenovo,A788t,771
+lenovo,A789,7
+lenovo,A8-50,5
+lenovo,A805e,106
+lenovo,A820,212
+lenovo,A820e,43
+lenovo,A820t,150
+lenovo,A830,6
+lenovo,A850,608
+lenovo,A850+,90
+lenovo,A858t,438
+lenovo,A880,71
+lenovo,A890e,20
+lenovo,K80,189
+lenovo,K860,48
+lenovo,K860i,49
+lenovo,K900,16
+lenovo,P1c58,134
+lenovo,P70,439
+lenovo,P770,486
+lenovo,P780,104
+lenovo,PHAB Plus,1
+lenovo,S5000,3
+lenovo,S60t,416
+lenovo,S650,41
+lenovo,S658t,593
+lenovo,S696,5
+lenovo,S720i,9
+lenovo,S810t,47
+lenovo,S820,454
+lenovo,S850,48
+lenovo,S850t,127
+lenovo,S858t,7
+lenovo,S868t,51
+lenovo,S870e,4
+lenovo,S880,9
+lenovo,S890,4
+lenovo,S898t,363
+lenovo,S90-t,335
+lenovo,S920,1
+lenovo,S938t,39
+lenovo,S939,15
+lenovo,S960,49
+lenovo,TAB A10-80,1
+lenovo,VIBE P1,687
+lenovo,VIBE X,66
+lenovo,VIBE X2,788
+lenovo,VIBE Z,6
+lenovo,VIBE Z2,642
+lenovo,Vibe Shot,249
+lenovo,Vibe Z2 Pro,7
+lenovo,乐檬3,43
+lenovo,乐檬K3,3132
+lenovo,乐檬K3 Note,2109
+lenovo,乐檬K31,42
+lenovo,乐檬X3,2
+lenovo,联想VIBE X2,8
+lenovo,联想黄金斗士S8,823
+lenovo,黄金斗士A8,2243
+lenovo,黄金斗士Note8,397
+lenovo,黄金斗士S8畅玩版,62
+lenovo,黄金斗士青春版,24
+lephone,T2,230
+lephone,T5,245
+lephone,T708,55
+lephone,百利丰 W2,4
+lingyun,小苹果,39
+lshi,超级手机1,10436
+lshi,超级手机1 Pro,6027
+lshi,超级手机1s,11142
+lshi,超级手机Max,1966
+meitu,2,61
+meitu,M4,419
+meitu,V4,246
+meizu,M031,60
+meizu,M032,3
+meizu,MX2,1512
+meizu,MX3,6093
+meizu,MX4,9682
+meizu,MX4 Pro,7439
+meizu,MX5,15116
+meizu,PRO5,3350
+meizu,魅蓝,2946
+meizu,魅蓝2,6256
+meizu,魅蓝NOTE,14401
+meizu,魅蓝Note 2,20002
+meizu,魅蓝Note3,2
+meizu,魅蓝metal,4311
+mengmi,P6,7
+micky,M228-M51,2
+micky,M6-M7,727
+moto,DROID RAZR M,5
+moto,Moto G,145
+moto,Moto Turbo,20
+moto,Moto X,220
+moto,Moto X 3,427
+moto,Moto X Pro,161
+moto,Moto X Style,101
+moto,Moto X极,10
+moto,XT928,7
+newman,纽扣,486
+nibilu,火星一号,330
+nibilu,火星一号探索版,8
+noain,M8,21
+nokia,N1,1
+nokia,X2,3
+nokia,XL,654
+nubia,My 布拉格,250
+nubia,X6,1
+nubia,Z5 Mini,183
+nubia,Z5S,50
+nubia,Z5S Mini,982
+nubia,Z7,22
+nubia,Z7 Max,750
+nubia,Z7 Mini,1095
+nubia,Z9,216
+nubia,Z9 Max,2014
+nubia,Z9 mini,2904
+nubia,Z9 mini 精英版,286
+nuomi,3S,13
+obi,V10,33
+oneplus,One,3829
+oneplus,Two,209
+oneplus,X,423
+ouxin,V70,1
+panosonic,L855,26
+panosonic,N821,4
+panosonic,N828,2
+samsung,2016版 Galaxy A5,381
+samsung,2016版 Galaxy A7,1302
+samsung,2016版 Galaxy A9,1229
+samsung,B9388,36
+samsung,G3588V,432
+samsung,G3609,19
+samsung,G3818,1203
+samsung,G3819D,6
+samsung,G7200,1483
+samsung,Galaxy A3,668
+samsung,Galaxy A5,8925
+samsung,Galaxy A7,3989
+samsung,Galaxy A8,2749
+samsung,Galaxy Ace 2,1
+samsung,Galaxy Ace 3,20
+samsung,Galaxy Ace 4,8
+samsung,Galaxy Alpha,9
+samsung,Galaxy Core 2,12
+samsung,Galaxy Core 4G,328
+samsung,Galaxy Core Lite,49
+samsung,Galaxy Core Max,1011
+samsung,Galaxy Core Mini,114
+samsung,Galaxy Core Prime,40
+samsung,Galaxy E7,707
+samsung,Galaxy Golden,34
+samsung,Galaxy Grand,1518
+samsung,Galaxy Grand 2,7872
+samsung,Galaxy Grand 2 LTE,125
+samsung,Galaxy Grand DUOS,930
+samsung,Galaxy Grand Neo Plus,112
+samsung,Galaxy Grand Prime,1961
+samsung,Galaxy J,181
+samsung,Galaxy J3,621
+samsung,Galaxy J5,1029
+samsung,Galaxy J7,1063
+samsung,Galaxy K Zoom,119
+samsung,Galaxy Mega 2,1178
+samsung,Galaxy Mega 5.8,2699
+samsung,Galaxy Mega 6.3,1094
+samsung,Galaxy Mega Plus,788
+samsung,Galaxy Mini,2
+samsung,Galaxy Nexus,22
+samsung,Galaxy Note,176
+samsung,Galaxy Note 10.1 2014 Edition P601,8
+samsung,Galaxy Note 10.1 N8010,1
+samsung,Galaxy Note 2,14856
+samsung,Galaxy Note 3,27127
+samsung,Galaxy Note 3 Lite,1424
+samsung,Galaxy Note 4,6647
+samsung,Galaxy Note 5,2378
+samsung,Galaxy Note 8.0,308
+samsung,Galaxy Note Edge,446
+samsung,Galaxy On5,292
+samsung,Galaxy On7,1276
+samsung,Galaxy Premier,95
+samsung,Galaxy S2,239
+samsung,Galaxy S2 Epic 4G Touch,2
+samsung,Galaxy S2 HD LTE E120S,14
+samsung,Galaxy S2 Plus,57
+samsung,Galaxy S3,3125
+samsung,Galaxy S3 Mini,4
+samsung,Galaxy S3 Neo+,1413
+samsung,Galaxy S4,11407
+samsung,Galaxy S4 Mini,21
+samsung,Galaxy S4 Zoom,6
+samsung,Galaxy S5,7734
+samsung,Galaxy S5 Plus,6
+samsung,Galaxy S6,5627
+samsung,Galaxy S6 Edge,5973
+samsung,Galaxy S6 Edge+,3646
+samsung,Galaxy S7,62
+samsung,Galaxy S7 Edge,293
+samsung,Galaxy Style DUOS,17
+samsung,Galaxy Tab 3 10.1,61
+samsung,Galaxy Tab 3 7.0,32
+samsung,Galaxy Tab 3 8.0,123
+samsung,Galaxy Tab 4 T231,1
+samsung,Galaxy Tab 4 T331C,60
+samsung,Galaxy Tab P6800,13
+samsung,Galaxy Tab Pro T321,17
+samsung,Galaxy Tab S T705,125
+samsung,Galaxy Tab S T705C,147
+samsung,Galaxy Trend,1
+samsung,Galaxy Trend 2,4
+samsung,Galaxy Trend 3,975
+samsung,Galaxy Trend DUOS,22
+samsung,Galaxy Trend DUOS 2,19
+samsung,Galaxy Win,563
+samsung,Galaxy Win Pro,435
+samsung,I8268,125
+samsung,I9050,1
+samsung,I9118,4
+samsung,N910C,1
+samsung,N910U,119
+samsung,S5830I,43
+samsung,S7566,39
+samsung,S7568,16
+samsung,S7568I,1
+samsung,S7898,10
+samsung,SHV-E210L,402
+samsung,SM-T2558,179
+samsung,W2013,136
+samsung,W2014,281
+samsung,W2015,184
+samsung,三星big foot,115
+samsung,领世旗舰3,157
 vivo,E5,14
 vivo,S11T,824
 vivo,S7,22
@@ -189,439 +799,117 @@ vivo,Y923,530
 vivo,Y927,1274
 vivo,Y928,344
 vivo,Y937,291
-一加,One,3829
-一加,Two,209
-一加,X,423
-三星,2016版 Galaxy A5,381
-三星,2016版 Galaxy A7,1302
-三星,2016版 Galaxy A9,1229
-三星,B9388,36
-三星,G3588V,432
-三星,G3609,19
-三星,G3818,1203
-三星,G3819D,6
-三星,G7200,1483
-三星,Galaxy A3,668
-三星,Galaxy A5,8925
-三星,Galaxy A7,3989
-三星,Galaxy A8,2749
-三星,Galaxy Ace 2,1
-三星,Galaxy Ace 3,20
-三星,Galaxy Ace 4,8
-三星,Galaxy Alpha,9
-三星,Galaxy Core 2,12
-三星,Galaxy Core 4G,328
-三星,Galaxy Core Lite,49
-三星,Galaxy Core Max,1011
-三星,Galaxy Core Mini,114
-三星,Galaxy Core Prime,40
-三星,Galaxy E7,707
-三星,Galaxy Golden,34
-三星,Galaxy Grand,1518
-三星,Galaxy Grand 2,7872
-三星,Galaxy Grand 2 LTE,125
-三星,Galaxy Grand DUOS,930
-三星,Galaxy Grand Neo Plus,112
-三星,Galaxy Grand Prime,1961
-三星,Galaxy J,181
-三星,Galaxy J3,621
-三星,Galaxy J5,1029
-三星,Galaxy J7,1063
-三星,Galaxy K Zoom,119
-三星,Galaxy Mega 2,1178
-三星,Galaxy Mega 5.8,2699
-三星,Galaxy Mega 6.3,1094
-三星,Galaxy Mega Plus,788
-三星,Galaxy Mini,2
-三星,Galaxy Nexus,22
-三星,Galaxy Note,176
-三星,Galaxy Note 10.1 2014 Edition P601,8
-三星,Galaxy Note 10.1 N8010,1
-三星,Galaxy Note 2,14856
-三星,Galaxy Note 3,27127
-三星,Galaxy Note 3 Lite,1424
-三星,Galaxy Note 4,6647
-三星,Galaxy Note 5,2378
-三星,Galaxy Note 8.0,308
-三星,Galaxy Note Edge,446
-三星,Galaxy On5,292
-三星,Galaxy On7,1276
-三星,Galaxy Premier,95
-三星,Galaxy S2,239
-三星,Galaxy S2 Epic 4G Touch,2
-三星,Galaxy S2 HD LTE E120S,14
-三星,Galaxy S2 Plus,57
-三星,Galaxy S3,3125
-三星,Galaxy S3 Mini,4
-三星,Galaxy S3 Neo+,1413
-三星,Galaxy S4,11407
-三星,Galaxy S4 Mini,21
-三星,Galaxy S4 Zoom,6
-三星,Galaxy S5,7734
-三星,Galaxy S5 Plus,6
-三星,Galaxy S6,5627
-三星,Galaxy S6 Edge,5973
-三星,Galaxy S6 Edge+,3646
-三星,Galaxy S7,62
-三星,Galaxy S7 Edge,293
-三星,Galaxy Style DUOS,17
-三星,Galaxy Tab 3 10.1,61
-三星,Galaxy Tab 3 7.0,32
-三星,Galaxy Tab 3 8.0,123
-三星,Galaxy Tab 4 T231,1
-三星,Galaxy Tab 4 T331C,60
-三星,Galaxy Tab P6800,13
-三星,Galaxy Tab Pro T321,17
-三星,Galaxy Tab S T705,125
-三星,Galaxy Tab S T705C,147
-三星,Galaxy Trend,1
-三星,Galaxy Trend 2,4
-三星,Galaxy Trend 3,975
-三星,Galaxy Trend DUOS,22
-三星,Galaxy Trend DUOS 2,19
-三星,Galaxy Win,563
-三星,Galaxy Win Pro,435
-三星,I8268,125
-三星,I9050,1
-三星,I9118,4
-三星,N910C,1
-三星,N910U,119
-三星,S5830I,43
-三星,S7566,39
-三星,S7568,16
-三星,S7568I,1
-三星,S7898,10
-三星,SHV-E210L,402
-三星,SM-T2558,179
-三星,W2013,136
-三星,W2014,281
-三星,W2015,184
-三星,三星big foot,115
-三星,领世旗舰3,157
-世纪天元,F8909,4
-中兴,9180,229
-中兴,A880,429
-中兴,AxonMini,240
-中兴,Axon天机,380
-中兴,Axon天机 Max,49
-中兴,Blade A1,49
-中兴,Blade S6,50
-中兴,Blade S6 Lux,233
-中兴,G717C,215
-中兴,G718C,532
-中兴,Grand Memo 2,154
-中兴,Grand S 2,238
-中兴,Grand X Quad,60
-中兴,N880F,15
-中兴,N881F,8
-中兴,N919,26
-中兴,Q505T,46
-中兴,Q507T,13
-中兴,Q519T,1
-中兴,Q7,45
-中兴,Q705U,8
-中兴,Q801L,9
-中兴,Q802T,984
-中兴,U793,1
-中兴,U808,4
-中兴,U809,1
-中兴,U817,6
-中兴,U880E,2
-中兴,U930HD,2
-中兴,U950,18
-中兴,U960E,107
-中兴,U969,1
-中兴,V5 Max,440
-中兴,V5S,391
-中兴,V889M,1
-中兴,V955,9
-中兴,V967S,5
-中兴,memo 5S,35
-中兴,中兴远航3,13
-中兴,威武3,2
-中兴,小星星,2410
-中兴,小鲜2,82
-中兴,小鲜3,32
-中兴,星星1号,1503
-中兴,星星2号,132
-中兴,红牛V5,366
-中兴,远航3,2
-中兴,醉享,33
-中兴,青漾3,428
-中国移动,A1,1492
-中国移动,M601,10
-中国移动,M811,305
-中国移动,M812C,1213
-中国移动,N1,1993
-中国移动,N1 max,43
-乐视,超级手机1,10436
-乐视,超级手机1 Pro,6027
-乐视,超级手机1s,11142
-乐视,超级手机Max,1966
-乡米,X6666,49
-亚马逊,Kindle Fire HDX 7.0,7
-亿通,P2,102
-亿通,P3,59
-亿通,P305,12
-优米,3,3
-优米,R1,4
-优米,UIMI3,6
-优米,UIMI4,83
-优购,:UOOGOUT1,29
-努比亚,My 布拉格,250
-努比亚,X6,1
-努比亚,Z5 Mini,183
-努比亚,Z5S,50
-努比亚,Z5S Mini,982
-努比亚,Z7,22
-努比亚,Z7 Max,750
-努比亚,Z7 Mini,1095
-努比亚,Z9,216
-努比亚,Z9 Max,2014
-努比亚,Z9 mini,2904
-努比亚,Z9 mini 精英版,286
-华为,A199,588
-华为,Ascend G6,540
-华为,Ascend G7,7800
-华为,Ascend G700,80
-华为,Ascend G700T,722
-华为,Ascend GX1,1022
-华为,Ascend P1,3
-华为,Ascend P6,1755
-华为,Ascend P7,9285
-华为,Ascend P8,15055
-华为,B199,1520
-华为,C8813,34
-华为,C8813DQ,2
-华为,C8813Q,64
-华为,C8815,44
-华为,C8816,351
-华为,C8816D,84
-华为,C8817E,661
-华为,C8817L,129
-华为,C8818,1755
-华为,G309T,5
-华为,G510,6
-华为,G520-0000,69
-华为,G520-5000,16
-华为,G520-T10,9
-华为,G521,74
-华为,G525,37
-华为,G6-C00,23
-华为,G610C,208
-华为,G610S,918
-华为,G610T,1095
-华为,G620-L75,450
-华为,G628,490
-华为,G629,302
-华为,G660-L075,748
-华为,G7 Plus,1318
-华为,G716,84
-华为,G730-C00,243
-华为,G730-L075,530
-华为,G730-T00,261
-华为,G730-U00,663
-华为,G750-T20,1140
-华为,HN3-U01,89
-华为,MT1-U06,405
-华为,MT2-C00,952
-华为,Mate,238
-华为,Mate 2,1172
-华为,Mate 7,43206
-华为,Mate 7 青春版,1641
-华为,Mate 8,5112
-华为,Mate S,1673
-华为,MediaPad 10 Link,1
-华为,MediaPad 10 Link+?,4
-华为,MediaPad M2-801W,100
-华为,MediaPad M2-803L,459
-华为,Nexus 6P,361
-华为,P8 Lite,6070
-华为,P8max,2131
-华为,P9,119
-华为,P9 Plus,134
-华为,S8-701u,130
-华为,S8-701w,7
-华为,T1-821w,23
-华为,T8620,6
-华为,U9508,181
-华为,X1 7.0,868
-华为,Y220T,1
-华为,Y300,7
-华为,Y511-T00,171
-华为,Y511-U00,16
-华为,Y516,2
-华为,Y518-T00,84
-华为,Y535D,3
-华为,Y560-CL00,19
-华为,Y600-U00,81
-华为,Y635,1059
-华为,Y635-TL00,355
-华为,m310,23
-华为,畅享5,5944
-华为,畅享5S,4679
-华为,荣耀+,4
-华为,荣耀3C,15646
-华为,荣耀3C畅玩版,2505
-华为,荣耀3X,2938
-华为,荣耀3X畅玩版,13169
-华为,荣耀4A,4196
-华为,荣耀6,55008
-华为,荣耀6 Plus,33197
-华为,荣耀6 plus,3530
-华为,荣耀7,14116
-华为,荣耀7i,5086
-华为,荣耀V8,151
-华为,荣耀X2,2356
-华为,荣耀平板T1-823L,436
-华为,荣耀畅玩4,6518
-华为,荣耀畅玩4C,19464
-华为,荣耀畅玩4C运动版,641
-华为,荣耀畅玩4X,46212
-华为,荣耀畅玩5,2163
-华为,荣耀畅玩5X,10015
-华为,荣耀畅玩平板T1,34
-华为,麦芒3,3925
-华为,麦芒3S,1122
-华为,麦芒4,6434
-华硕,K012,76
-华硕,ME7510KG,4
-华硕,T00G,23
-华硕,ZenFone 2,680
-华硕,ZenFone 5,40
-华硕,ZenFone Max,16
-华硕,ZenFone Selfie,14
-华硕,飞马,42
+weimi,P8,7
+weimi,P9,186
+weitu,GT7,39
+weitu,VT868,7
+weitu,VT888,81
+wpf,S2,54
+xiangmi,X6666,49
+xiaomi,MI 1S,604
+xiaomi,MI 2,3781
+xiaomi,MI 2A,2830
+xiaomi,MI 2C,207
+xiaomi,MI 2S,12473
+xiaomi,MI 3,18817
+xiaomi,MI 4,41081
+xiaomi,MI 4S,101
+xiaomi,MI 5,528
+xiaomi,MI One Plus,71
+xiaomi,MI pad,352
+xiaomi,MI pad 2,14
+xiaomi,note顶配版,5250
+xiaomi,小米4C,12051
+xiaomi,小米note,14808
+xiaomi,红米,5111
+xiaomi,红米1S,8317
+xiaomi,红米2,13438
+xiaomi,红米2A,12091
+xiaomi,红米3,1218
+xiaomi,红米Note2,20209
+xiaomi,红米Note3,12131
+xiaomi,红米note,38390
+xiaomi,红米note增强版,3977
+ximi,R5s plus,36
+yougo,:UOOGOUT1,29
+youmi,3,3
+youmi,R1,4
+youmi,UIMI3,6
+youmi,UIMI4,83
+yuxin,T50,4
+yuxin,小辣椒 4,39
+yuxin,小辣椒 6,29
+yuxin,小辣椒 7,43
+yuxin,小辣椒 M2,112
+yuxin,小辣椒 X3,1
+yuxin,小辣椒S1,6
+yuxin,红辣椒,459
+yuxin,红辣椒 X1,11
+yuxin,红辣椒Note,520
+yuxin,红辣椒Note3,120
+yuxin,红辣椒任性版 Plus,69
+zte,9180,229
+zte,A880,429
+zte,AxonMini,240
+zte,Axon天机,380
+zte,Axon天机 Max,49
+zte,Blade A1,49
+zte,Blade S6,50
+zte,Blade S6 Lux,233
+zte,G717C,215
+zte,G718C,532
+zte,Grand Memo 2,154
+zte,Grand S 2,238
+zte,Grand X Quad,60
+zte,N880F,15
+zte,N881F,8
+zte,N919,26
+zte,Q505T,46
+zte,Q507T,13
+zte,Q519T,1
+zte,Q7,45
+zte,Q705U,8
+zte,Q801L,9
+zte,Q802T,984
+zte,U793,1
+zte,U808,4
+zte,U809,1
+zte,U817,6
+zte,U880E,2
+zte,U930HD,2
+zte,U950,18
+zte,U960E,107
+zte,U969,1
+zte,V5 Max,440
+zte,V5S,391
+zte,V889M,1
+zte,V955,9
+zte,V967S,5
+zte,memo 5S,35
+zte,中兴远航3,13
+zte,威武3,2
+zte,小星星,2410
+zte,小鲜2,82
+zte,小鲜3,32
+zte,星星1号,1503
+zte,星星2号,132
+zte,红牛V5,366
+zte,远航3,2
+zte,醉享,33
+zte,青漾3,428
 原点,Yuandian II,29
 唯比,X5,3
-唯米,P8,7
-唯米,P9,186
-基伍,A800,1
-夏新,L855,26
-夏新,N821,4
-夏新,N828,2
 大Q,雷霆战机,6
-大可乐,MC002,112
 大显,7i,3
-天语,L820,88
-天语,L930i,250
-天语,T85+,8
-天语,Touch 2,409
-天语,Touch 3,630
-天语,Touch 3c,59
-天语,Touch V,140
-奇酷,旗舰版,618
-奇酷,青春版,3016
-富可视,M210,11
-富可视,M310,17
-小米,MI 1S,604
-小米,MI 2,3781
-小米,MI 2A,2830
-小米,MI 2C,207
-小米,MI 2S,12473
-小米,MI 3,18817
-小米,MI 4,41081
-小米,MI 4S,101
-小米,MI 5,528
-小米,MI One Plus,71
-小米,MI pad,352
-小米,MI pad 2,14
-小米,note顶配版,5250
-小米,小米4C,12051
-小米,小米note,14808
-小米,红米,5111
-小米,红米1S,8317
-小米,红米2,13438
-小米,红米2A,12091
-小米,红米3,1218
-小米,红米Note2,20209
-小米,红米Note3,12131
-小米,红米note,38390
-小米,红米note增强版,3977
-尼比鲁,火星一号,330
-尼比鲁,火星一号探索版,8
-康佳,L823,2
-康佳,R1,3
-康佳,V981,80
-德赛,魔镜 X5,13
-惠普,Compaq 7,1
-摩托罗拉,DROID RAZR M,5
-摩托罗拉,Moto G,145
-摩托罗拉,Moto Turbo,20
-摩托罗拉,Moto X,220
-摩托罗拉,Moto X 3,427
-摩托罗拉,Moto X Pro,161
-摩托罗拉,Moto X Style,101
-摩托罗拉,Moto X极,10
-摩托罗拉,XT928,7
 斐讯,C630Lw,16
 斐讯,C730Lw,31
-昂达,V919,3
 本为,V5,6
-朵唯,D330,301
-朵唯,D350,1
-朵唯,L1 mini,354
-朵唯,L5 mini,39
-朵唯,L5Pro,1
-朵唯,S2y,61
-朵唯,S3,45
-朵唯,T20,2
-朵唯,T35,70
-朵唯,T60,9
-朵唯,iSuper S1,1
-朵唯,iSuper S2,38
-朵唯,倾城L3,24
-朵唯,倾城L3C,124
 果米,A7,2
-梦米,P6,7
 欧乐迪,Z1988,40
-欧博信,IVO 6600,3
-欧博信,Q3C,9
 欧奇,OKA31,2
-欧新,V70,1
-欧比,V10,33
-沃普丰,S2,54
-波导,Doeasy E700,5
-波导,L108,3
-波导,LT01,1
-波导,LT02,27
-海信,D2-M,195
-海信,E50-T,187
-海信,E600M,1
-海信,E602T,3
-海信,E620M,4
-海信,E621T,266
-海信,E70-T,333
-海信,EG936D,12
-海信,EG978,12
-海信,G610M,92
-海信,HS-U978,9
-海信,I630T,5
-海信,I635T,2
-海信,I639T,2
-海信,M10-M,1
-海信,M20-M,41
-海信,M20-T,152
-海信,T928,2
-海信,U939,2
-海信,U966,2
-海信,X68T,15
-海信,X8T,139
-海信,小章鱼,50
-海尔,HT-I860,13
-爱派尔,IPH8,3
-爱派尔,iPh-800,2
 白米,BM001,37
 白米,BM002,91
 百加,V6,15
-百立丰,T2,230
-百立丰,T5,245
-百立丰,T708,55
-百立丰,百利丰 W2,4
-神舟,X50TS,78
-米奇,M228-M51,2
-米奇,M6-M7,727
-糯米,3S,13
 索尼,X10i,1
 索尼,Xperia C,114
 索尼,Xperia C3,21
@@ -642,302 +930,14 @@ vivo,Y937,291
 索尼,Xperia Z3+ Dual,13
 索尼,Xperia Z5,103
 索尼,Xperia acro S,1
-纽曼,纽扣,486
-维图,GT7,39
-维图,VT868,7
-维图,VT888,81
-美图,2,61
-美图,M4,419
-美图,V4,246
-聆韵,小苹果,39
-联想,A2580,193
-联想,A2800d,214
-联想,A2860,5
-联想,A298t,1
-联想,A3000-H,2
-联想,A318t,1
-联想,A320t,397
-联想,A3300-T,16
-联想,A355e,135
-联想,A356,2
-联想,A3600d,13
-联想,A360t,83
-联想,A366t,2
-联想,A368t,50
-联想,A376,7
-联想,A378t,14
-联想,A3800d,374
-联想,A380t,122
-联想,A388t,12
-联想,A3900,84
-联想,A398t,16
-联想,A399,34
-联想,A516,3
-联想,A5800-D,89
-联想,A628t,17
-联想,A630t,1
-联想,A670t,34
-联想,A678t,15
-联想,A6800,96
-联想,A688t,1
-联想,A706,19
-联想,A708t,1096
-联想,A760,17
-联想,A766,13
-联想,A768t,164
-联想,A770e,5
-联想,A785e,10
-联想,A788t,771
-联想,A789,7
-联想,A8-50,5
-联想,A805e,106
-联想,A820,212
-联想,A820e,43
-联想,A820t,150
-联想,A830,6
-联想,A850,608
-联想,A850+,90
-联想,A858t,438
-联想,A880,71
-联想,A890e,20
-联想,K80,189
-联想,K860,48
-联想,K860i,49
-联想,K900,16
-联想,P1c58,134
-联想,P70,439
-联想,P770,486
-联想,P780,104
-联想,PHAB Plus,1
-联想,S5000,3
-联想,S60t,416
-联想,S650,41
-联想,S658t,593
-联想,S696,5
-联想,S720i,9
-联想,S810t,47
-联想,S820,454
-联想,S850,48
-联想,S850t,127
-联想,S858t,7
-联想,S868t,51
-联想,S870e,4
-联想,S880,9
-联想,S890,4
-联想,S898t,363
-联想,S90-t,335
-联想,S920,1
-联想,S938t,39
-联想,S939,15
-联想,S960,49
-联想,TAB A10-80,1
-联想,VIBE P1,687
-联想,VIBE X,66
-联想,VIBE X2,788
-联想,VIBE Z,6
-联想,VIBE Z2,642
-联想,Vibe Shot,249
-联想,Vibe Z2 Pro,7
-联想,乐檬3,43
-联想,乐檬K3,3132
-联想,乐檬K3 Note,2109
-联想,乐檬K31,42
-联想,乐檬X3,2
-联想,联想VIBE X2,8
-联想,联想黄金斗士S8,823
-联想,黄金斗士A8,2243
-联想,黄金斗士Note8,397
-联想,黄金斗士S8畅玩版,62
-联想,黄金斗士青春版,24
 至尊宝,L82,3
 至尊宝,LT416,22
 至尊宝,LT988,5
-艾优尼,U2,15
-艾优尼,U3,276
-艾优尼,i1,253
 蓝魔,Mos1,11
-西米,R5s plus,36
-语信,T50,4
-语信,小辣椒 4,39
-语信,小辣椒 6,29
-语信,小辣椒 7,43
-语信,小辣椒 M2,112
-语信,小辣椒 X3,1
-语信,小辣椒S1,6
-语信,红辣椒,459
-语信,红辣椒 X1,11
-语信,红辣椒Note,520
-语信,红辣椒Note3,120
-语信,红辣椒任性版 Plus,69
-诺亚信,M8,21
-诺基亚,N1,1
-诺基亚,X2,3
-诺基亚,XL,654
-谷歌,Nexus 7,45
 贝尔丰,BF A500,10
 贝尔丰,BF T18,613
 贝尔丰,BF T18 Plus,55
 贝尔丰,T12,48
-邦华,U7,2
-邦华,V9,10
-酷比,H1,5
-酷比,H1S,2
-酷比,H2,107
-酷比,H6,2
-酷比,M1,19
-酷比,MUSE,2
-酷比,S1,14
-酷比,S2,196
-酷比,S3,95
-酷比,S6,26
-酷比魔方,TALK 7X四核,10
-酷比魔方,U25GT,16
-酷比魔方,U51GT-W,1
-酷派,5200S,25
-酷派,5216D,12
-酷派,5217,6
-酷派,5219,2
-酷派,5261,3
-酷派,5263,2
-酷派,5263S,1
-酷派,5316,33
-酷派,5360,374
-酷派,5872,8
-酷派,5876,12
-酷派,5890,15
-酷派,5891,105
-酷派,5891Q,241
-酷派,5892,25
-酷派,5950,304
-酷派,5951,18
-酷派,5956,1
-酷派,7251,5
-酷派,7270,1
-酷派,7270-W00,3
-酷派,7275,7
-酷派,7295,298
-酷派,7295+,125
-酷派,7295A青春版,12
-酷派,7295C,26
-酷派,7296,353
-酷派,7296S,42
-酷派,7298D,85
-酷派,7320,32
-酷派,7605,23
-酷派,7620l,293
-酷派,8017,13
-酷派,8017-T00,3
-酷派,8085,33
-酷派,8089,3
-酷派,8105,12
-酷派,8185,10
-酷派,8190Q,11
-酷派,8195,12
-酷派,8198T,7
-酷派,8295,3
-酷派,8702,27
-酷派,8705,264
-酷派,8707,47
-酷派,8712,577
-酷派,8713,21
-酷派,8715,33
-酷派,8717,96
-酷派,8720,81
-酷派,8720L,350
-酷派,8721,658
-酷派,8722,1
-酷派,8729,339
-酷派,8730L,484
-酷派,8732,25
-酷派,8736,7
-酷派,8750,1
-酷派,9190l,1992
-酷派,9976A,89
-酷派,9976D,33
-酷派,F2,10761
-酷派,K1,3
-酷派,S6,111
-酷派,T1,858
-酷派,Y1,122
-酷派,Y70-C,22
-酷派,Y80D,700
-酷派,ivvi K1 mini,220
-酷派,ivvi S6,3
-酷派,ivvi 小i,278
-酷派,ivvi 小骨Pro,655
-酷派,大神1s,143
-酷派,大神F1,4134
-酷派,大神F1Plus,1324
-酷派,大神F2,2307
-酷派,大神F2全高清版,1561
-酷派,大神Note,126
-酷派,大神Note3,5639
-酷派,大神X7,1181
-酷派,大观4,40
-酷派,大观铂顿,1
-酷派,炫影S+,46
-酷派,锋尚,1641
-酷派,锋尚2,6
-酷派,锋尚Max,261
-酷派,锋尚Pro,1332
-酷派,锋尚mini,45
-酷珀,L168,4
-酷珀,L7,16
-金立,E6,205
-金立,E6T,38
-金立,E7,40
-金立,E8,48
-金立,ELIFE E3T,39
-金立,ELIFE E6 mini,23
-金立,ELIFE S5.5,197
-金立,F103,3024
-金立,F103S,158
-金立,F301,454
-金立,F303,288
-金立,GN137,33
-金立,GN139,87
-金立,GN151,138
-金立,GN152,660
-金立,GN5001S,206
-金立,GN706L,12
-金立,GN715,404
-金立,GN9002,41
-金立,M3,385
-金立,M5,1245
-金立,M5 Plus,921
-金立,S5.1,38
-金立,S5.1Pro,366
-金立,S5.5L,2031
-金立,S6,1959
-金立,S7,768
-金立,V182,17
-金立,V183,19
-金立,V185,2
-金立,V188,78
-金立,V188S,504
-金立,X805,28
-金立,天鉴T1,17
-金立,天鉴W900,324
-金立,天鉴W900S,42
-金立,金钢,715
-锤子,T1,1513
-锤子,T2,102
-锤子,坚果手机,2835
 长虹,T03锋至版,16
-青橙,N2,67
 青葱,metal 标准版,42
-魅族,M031,60
-魅族,M032,3
-魅族,MX2,1512
-魅族,MX3,6093
-魅族,MX4,9682
-魅族,MX4 Pro,7439
-魅族,MX5,15116
-魅族,PRO5,3350
-魅族,魅蓝,2946
-魅族,魅蓝2,6256
-魅族,魅蓝NOTE,14401
-魅族,魅蓝Note 2,20002
-魅族,魅蓝Note3,2
-魅族,魅蓝metal,4311
 鲜米,s800,12
