@@ -52,6 +52,21 @@ In order to generate a list of topics for the development of a new application, 
   6) Rank the application categories base on the interest vector
   7) Recommend the ranked list of applications categories to the developer.
 
+## Analysis of the Provided Data
+### Event Time Distribution
+En general users are subjected to time constraints when using the applications on their devices. Base on the time of day or day of the week the user will be using different applications on their devices or simply use less of their devices.
 
+Below are some charts to demonstrate the fluctuation of user usage data for the given time frame.
+
+#### Event Count Grouped in 24 Hour
+![Event Count Grouped in 24 Hours](/Application_Criteria_Generator/Docs/Project/Images/ReadMe/EventDistribution_hour_of_day.png)
+
+As demonstrated above there is a dip in events from 2:00 am to 5:00 am in the morning. This is most probably due to the human sleep cycle. A rise in the events from 10:00 am to 1:00 pm and from 7:00 pm to 8:00 would most likely do to breaks and end of the workday.
+
+We could further extend this chart to fit the entire week.
+#### Event Count Grouped per hour for 7 days
+![Event Count Grouped per hour for 7 days](/Application_Criteria_Generator/Docs/Project/Images/ReadMe/EventDistribution_hour_of_week.png)
+
+As visible above the events generated in this dataset is cyclic.
 
 
