@@ -69,4 +69,38 @@ We could further extend this chart to fit the entire week.
 
 As visible above the events generated in this dataset is cyclic.
 
+### Event Interest Time Distribution
+Applying the same logical thinking in time constraints  on device usage, it is possible to assume that the interest of the user will shift base on time constraints as well. Below are the interest vector of each hour plotted for the entire duration of the dataset.
 
+#### Event Interest Grouped in hours for 7 days for Male users
+![Event Interest Grouped per hour for 7 days for Male Users](/Application_Criteria_Generator/Docs/Project/Images/ReadMe/Interest_vector_per_time_male.png)
+
+#### Event Interest Grouped in hours for 7 days for Female users
+![Event Interest Grouped per hour for 7 days for Female Users](/Application_Criteria_Generator/Docs/Project/Images/ReadMe/Interest_vector_per_time_female.png)
+
+In the above plots each line represents a dimension of the interest vector. Whenever the lines intersects  it represents a shift in the interest level of the users.
+
+### Interest Vector
+As a point of interest to demonstrate the effectiveness of the interest vector: in analyzing the sharts above, it is visible to see that there are several lines that are greater than the other features of the interest vector. We could retrieve them by plotting a histogram of all the interest values.
+
+#### Top 20 Interest of Male Users
+![Top 20 Interest of Male Users](/Application_Criteria_Generator/Docs/Project/Images/ReadMe/Top_interests_male.png)
+
+#### Top 20 Interest of Female Users
+![Top 20 Interest of Female Users](/Application_Criteria_Generator/Docs/Project/Images/ReadMe/Top_interests_female.png)
+
+The top 3 dimensions of the interest vector are "tag", "industry", and "property". Performing a lookup of categories containing this dimension of the interest vector, the following categories are found:
+  - Property Industry 1.0
+  - Property Industry 2.0
+  - Property Industry new	
+  - Real Estate Property	
+  - Device Properties
+  - Property Trust	
+  - Intellectual Property Trust	
+  - Industry tag
+  - Games deep tags
+
+Base on the categories above, the users top interest in database are Real Estate Property, Industry tag, and Games with Tag systems.
+
+### Extra Remarks
+Given the level of description provided by the categories, further exploration may be required to have a comprehensive topic ranking system.
